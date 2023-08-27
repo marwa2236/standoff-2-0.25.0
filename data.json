@@ -19,15 +19,15 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2577925-1",
+"yandex_inter":"R-M-2577925-3",
+"yandex_native":"R-M-2577925-2",
+"yandex_reward":"R-M-2577925-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
 "vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
+"vungle_reward":"",
 
   
  "more_apps_info":[
@@ -37,20 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
 "native_network_choice":"admob"
   
 
 },
   "my_data":[
-  {"desc1":"The gaming world is in a constant state of evolution, with each new update and version pushing the boundaries of what is possible. In this vein, Standoff 2 version 0.25.0 emerges as a groundbreaking chapter in the popular first-person shooter (FPS) franchise. With a host of new features, enhanced gameplay mechanics, and fresh content, this update promises to redefine the way players engage in virtual combat. Let's delve into the exciting world of Standoff 2 0.25.0 and explore the captivating elements that make it a must-play for FPS enthusiasts.",
-   "photo1":"https://iili.io/HDzFCCu.webp"},
-  {"desc2":"Standoff 2 has always been celebrated for its realistic graphics, and version 0.25.0 takes this to a whole new level. With improved textures, advanced lighting effects, and meticulously detailed environments, players are thrust into a visually stunning and immersive world. Whether it's the glint of sunlight off a polished weapon or the subtle shadows that add depth to every corner, the enhanced graphics of 0.25.0 create an unparalleled sense of realism that draws players deeper into the gameplay experience.","photo2":"https://iili.io/HDzFrw7.webp"},
-  {"desc3":"At its core, Standoff 2 is known for its fast-paced and strategic gameplay. Version 0.25.0 builds upon this foundation with innovative gameplay dynamics that keep players on their toes. New movement mechanics, responsive controls, and refined gunplay mechanics contribute to a smoother and more dynamic gaming experience. This update doesn't just enhance the core gameplay—it revolutionizes it, ensuring that players have a more fluid and engaging encounter every time they step onto the virtual battlefield.","photo3":"https://iili.io/HDzFpwP.webp"},
-  {"desc4":"Any major update to Standoff 2 brings with it a slew of new weapons and customization options, and 0.25.0 is no exception. Players can expect an expanded arsenal of firearms, each with its own unique attributes and characteristics. From close-quarters shotguns to precision sniper rifles, the new weapons add a layer of variety that caters to different playstyles.","photo4":"https://iili.io/HDzffqu.webp"},
-  {"desc5":"Customization enthusiasts will be delighted to discover a range of new skins, attachments, and cosmetic options that allow them to personalize their characters and equipment. With an ever-growing array of customization possibilities, players can truly make their mark on the virtual world, creating distinct and memorable in-game personas.","photo5":"https://iili.io/HDzBydJ.webp"},
-  {"descd":"Exploration and variety have always been cornerstones of the Standoff 2 experience, and version 0.25.0 delivers with an array of new maps and game modes. These meticulously crafted environments provide diverse battlegrounds that challenge players to adapt their strategies and tactics. The addition of new game modes injects excitement and unpredictability into the mix, ensuring that each match is a unique and exhilarating experience.","photod":"https://iili.io/HDzxBrF.webp"}
+  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
+   "photo1":"https://iili.io/Ht07B6b.webp"},
+  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
+  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
+  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
+  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
+  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
    ]
  
+}
